@@ -1,0 +1,24 @@
+{
+   "name": "@abdoaitwihi/jsutils",
+   "version": "1.0.0",
+   "main": "lib/index.js",
+   "types": "lib",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "tsc -p ."
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "typescript": "^4.8.4"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/abdoaitwihi/jsutils.git"
+   },
+   "bugs": {
+      "url": "https://github.com/abdoaitwihi/jsutils/issues"
+   },
+   "homepage": "https://github.com/abdoaitwihi/jsutils#readme",
+   "description": ""
+}
